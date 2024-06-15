@@ -17,4 +17,3 @@ I possess in-depth knowledge of containerization technology and the inner workin
 
 Feel free to reach out if you want to collaborate or just have a chat!
 
-📫 **Contact**: [maheshrayas](linkedin.com/in/mahesh-rayas-824b681a)
