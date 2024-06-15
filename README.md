@@ -15,10 +15,6 @@ I possess in-depth knowledge of containerization technology and the inner workin
 3. **KubeSaver**: OSS project focused on cost optimization for Kubernetes.
 4. **KubeDepre**: A CLI tool for notifying deprecated Kubernetes APIs.
 
-## About Me
-
-Away from keyboards, I love spending time with my two kids and my lovely wife. I'm also very passionate about fitness and a gym enthusiast.
-
 Feel free to reach out if you want to collaborate or just have a chat!
 
 📫 **Contact**: [maheshrayas@gmail.com](mailto:maheshrayas@gmail.com)
