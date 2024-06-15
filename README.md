@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi there 👋
 
 I'm **Mahesh Rayas**, a software programmer with 17 years of software engineering experience and strong programming skills. I'm a Rust enthusiast and have contributed to numerous OSS projects. Currently, I'm employed full-time with one of the Top 4 banks in Australia. In my 9-5, I work extensively with Kubernetes, Google Cloud, and Go programming.
 
